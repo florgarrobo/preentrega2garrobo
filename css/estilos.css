@@ -1,0 +1,70 @@
+.contactobody {
+  color: #000;
+  overflow-x: hidden;
+  height: 100%;
+  background-image: url("/images/CONTACTOFONDO.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.contactobody .card {
+  padding: 30px 40px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border: none !important;
+  box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2);
+}
+.contactobody .blue-text {
+  color: #00BCD4;
+}
+.contactobody .form-control-label {
+  margin-bottom: 0;
+}
+.contactobody input,
+.contactobody textarea,
+.contactobody button {
+  padding: 8px 15px;
+  border-radius: 5px !important;
+  margin: 5px 0px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  font-size: 18px !important;
+  font-weight: 300;
+}
+.contactobody input:focus,
+.contactobody textarea:focus {
+  box-shadow: none !important;
+  border: 1px solid #00BCD4;
+  outline-width: 0;
+  font-weight: 400;
+}
+.contactobody .btn-block {
+  text-transform: uppercase;
+  font-size: 15px !important;
+  font-weight: 400;
+  height: 43px;
+  cursor: pointer;
+}
+.contactobody .btn-block:hover {
+  color: #fff !important;
+}
+.contactobody button:focus {
+  box-shadow: none !important;
+  outline-width: 0;
+}
+
+.whatsappicono {
+  color: green;
+}
+
+.reservaicono {
+  color: blue;
+}
+
+.hero {
+  background-image: url("../images/PAQUETESTOPPAGE.jpg");
+  height: 80vh;
+}
+
+.derechos {
+  background-color: #0D6EFD;
+}/*# sourceMappingURL=estilos.css.map */
